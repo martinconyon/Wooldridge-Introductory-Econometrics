@@ -1,4 +1,4 @@
-# # Wooldridge's Introductory Econometrics - Stata Code 
+# Wooldridge's Introductory Econometrics - Stata Code 
 
 This repository contains Stata code to reproduce the examples from Jeffrey Wooldridge's "Introductory Econometrics: A Modern Approach". The code covers all chapters from the book, providing a comprehensive set of examples and econometric analyses.
 
